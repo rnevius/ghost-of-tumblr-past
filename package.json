@@ -8,5 +8,11 @@
   "license": "MIT",
   "dependencies": {
     "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.21.1",
+    "xmlbuilder2": "^2.1.2"
   }
 }
