@@ -1,0 +1,12 @@
+{
+  "name": "ghost-of-tumblr-past",
+  "version": "1.0.0",
+  "description": "Tumblr XML export to Ghost-compatible JSON",
+  "main": "index.js",
+  "repository": "https://github.com/rnevius/ghost-of-tumblr-past",
+  "author": "Ryan Nevius",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
